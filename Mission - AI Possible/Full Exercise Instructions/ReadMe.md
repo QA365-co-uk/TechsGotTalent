@@ -1,0 +1,1 @@
+*This folder will contain the step-by-step instructions once the event is complete. Until that time, this will be the only file present*
